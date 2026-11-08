@@ -29,3 +29,18 @@ button {
 }
 button:hover { background: #fde047; }
 @media (max-width: 480px) { body { padding: 10px; } .placar { gap: 8px 12px; font-size: 14px; } }
+
+/* Telas de início, vitória e derrota (sobre o canvas) */
+.area-jogo { position: relative; width: min(100%, 600px); margin: 0 auto; }
+.tela {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 14px; padding: 20px;
+  background: rgba(5, 8, 22, 0.88); border-radius: 8px;
+}
+.tela.oculta { display: none; }
+.tela h2 { margin: 0; color: #facc15; font-size: 2rem; letter-spacing: 2px; }
+.tela p { margin: 0; max-width: 420px; color: #e5e7eb; line-height: 1.6; white-space: pre-line; }
+
+/* Botões de baixo (reiniciar e som) */
+.botoes { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
