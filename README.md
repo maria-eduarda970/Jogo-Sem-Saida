@@ -75,5 +75,6 @@ sem-saida/
 O jogo se inspira no clássico **Pac-Man**, com outro tema: ladrão no lugar do herói, policiais no lugar dos fantasmas, sacos de dinheiro no lugar dos pontinhos e delegacias onde os policiais começam e voltam.
 
 ## Autor
+Maria Eduarda Amancio Tavares
 
 Letícia Yannis Ribeiro Gomes
