@@ -76,5 +76,4 @@ O jogo se inspira no clássico **Pac-Man**, com outro tema: ladrão no lugar do 
 
 ## Autor
 Maria Eduarda Amancio Tavares
-
 Letícia Yannis Ribeiro Gomes
